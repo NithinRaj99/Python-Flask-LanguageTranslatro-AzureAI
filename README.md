@@ -15,12 +15,14 @@ To Start using this the following steps are needed to be done first:
   
   Create a virtual environment 
   
-  Create a Python virtual environment
+  Create a Python virtual environment:
   
   -Windows, macOS or Linux
   
-     Create the environment
+     #Create the environment
       python -m venv venv
+      
+  Activaten virtual environment:
   
   -Windows
   

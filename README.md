@@ -13,13 +13,13 @@ To Start using this the following steps are needed to be done first:
   Create a virtual environment 
   Create a Python virtual environment
   -Windows, macOS or Linux
-    -Create the environment
+     Create the environment
       python -m venv venv
   -Windows
-    -Activate the environment
+     Activate the environment
       ./venv/scripts/activate
   -macOS or Linux
-    -Activate the environment
+     Activate the environment
        source ./venv/bin/activate
 
 # Install Flask and other libraries

@@ -3,14 +3,14 @@ A Simple Python and Flask based language Translator using Azure AI Translator
 
 
 To Start using this the following steps are needed to be done first:
-#1. Install Visual Studio Code (if not already installed)
-#2. Install Python (if not already installed)
+# Install Visual Studio Code (if not already installed)
+#Install Python (if not already installed)
   Must have Python 3.6 or above version
  
   python --version   # code to check python vresion in terminal
 
-#3. Create a directory for your code
-#4. Create a virtual environment
+#Create a directory for your code
+#Create a virtual environment
   Create a Python virtual environment
 
   # Windows, macOS or Linux
@@ -26,14 +26,14 @@ To Start using this the following steps are needed to be done first:
   Activate the environment
   source ./venv/bin/activate
 
-#5. Install Flask and other libraries
+#Install Flask and other libraries
 
    Run the requirements.txt to install Flask and other libraries
 
    #code to run requirements.txt
    pip install -r requirements.txt
 
-#6.Create Translator service
+#Create Translator service
   Go to Azure portal : https://portal.azure.com/
   
   create an account then create a translator resource
@@ -45,7 +45,7 @@ To Start using this the following steps are needed to be done first:
   
   ![translator-keys](https://github.com/NithinRaj99/Python-Flask-LanguageTranslatro-AzureAI/assets/105411249/3c9ccf93-d15d-40d1-a9ac-fdf7cf60c87e)
 
-#7. In the project folder create .env file to store the key
+#In the project folder create .env file to store the key
   in the .env file add these
 
   #values inside .env file replace the KEY, ENDPOINT and LOCATION with your API keys

@@ -24,11 +24,11 @@ To Start using this the following steps are needed to be done first:
   
   -Windows
   
-     Activate the environment
+     #Activate the environment
       ./venv/scripts/activate
   -macOS or Linux
   
-     Activate the environment
+     #Activate the environment
        source ./venv/bin/activate
 
 # Install Flask and other libraries
@@ -55,7 +55,7 @@ To Start using this the following steps are needed to be done first:
 # In the project folder create .env file to store the key
   in the .env file add these
   
-  _values inside .env file replace the KEY, ENDPOINT and LOCATION with your API keys
+  -values inside .env file replace the KEY, ENDPOINT and LOCATION with your API keys
   
     KEY=your_key
     ENDPOINT=your_endpoint
